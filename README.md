@@ -3,7 +3,7 @@
   <!-- Monospace Font -->
   <samp>
     <a href="https://github.com/choednwn/configs">configs</a> .
-    <a href="https://cwooju.com">website</a> .
+    <a href="https://github.com/choednwn">website</a> .
     <a href="https://www.linkedin.com/in/choednwn/">linkedin</a>
   </samp>
 </div>
